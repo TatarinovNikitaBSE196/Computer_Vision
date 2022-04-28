@@ -1,1 +1,3 @@
-# Computer_Vision
+# Computer Vision Technologies
+
+Репозиторий по курсу "Технологии компьютерного зрения"
